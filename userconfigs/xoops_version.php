@@ -15,7 +15,6 @@
  * @package         Userconfigs
  * @since           1.0
  * @author          trabis <lusopoemas@gmail.com>
- * @version         $Id$
  */
 
 $modversion                = array();

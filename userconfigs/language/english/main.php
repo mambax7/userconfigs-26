@@ -13,7 +13,6 @@
  * @copyright       XOOPS Project (http://xoops.org)
  * @license         GNU GPL 2 or later (http://www.gnu.org/licenses/gpl-2.0.html)
  * @author          trabis <lusopoemas@gmail.com>
- * @version         $Id$
  */
 
 define('_MD_USERCONFIGS_NOACCESS',"Sorry, you are not allowed to access this page!");

@@ -17,7 +17,6 @@ use Xoops\Core\Request;
  * @copyright       XOOPS Project (http://xoops.org)
  * @license         GNU GPL 2 or later (http://www.gnu.org/licenses/gpl-2.0.html)
  * @package         userconfigs
- * @version         $Id$
  */
 
 include dirname(dirname(__DIR__)) . '/mainfile.php';

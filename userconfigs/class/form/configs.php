@@ -15,7 +15,6 @@
  * @author          Andricq Nicolas (AKA MusS)
  * @author          trabis <lusopoemas@gmail.com>
  * @package         userconfigs
- * @version         $Id$
  */
 
 class UserconfigsConfigsForm extends Xoops\Form\SimpleForm
